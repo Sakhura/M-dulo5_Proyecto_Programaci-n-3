@@ -3,10 +3,12 @@
 
 **Curso:** CSE205  
 **Fecha de Entrega:** 25 de Noviembre de 2025  
-**Integrantes del Equipo:**  
-- [Nombre Integrante 1]
-- [Nombre Integrante 2]  
-- [Nombre Integrante 3]
+**Integrantes del Equipo:**
+- Andrés Perot a.perotquevedo@uandresbello.edu 
+- Rodrigo Yañez r.yaezsepulveda@uandresbello.edu
+- Lorenzo Chacano l.chacanomuoz@uandresbello.edu
+- Natalia San Miguel n.sanmiguelcornejo@uandresbello.edu
+- Sabina Romero s.romerorodriguez1@uandresbello.cl
 
 ---
 
